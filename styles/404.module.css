@@ -1,0 +1,34 @@
+.center {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+.center .error_title {
+  font-size: 8rem;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffff;
+}
+.center .error_description {
+  color: #ffff;
+  font-weight: 400;
+  font-size: 1rem;
+}
+.center a {
+  width: 100%;
+  max-width: 500px;
+  margin-top: 1rem;
+  background-color: #efefef;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  color: var(--primary-background);
+  font-weight: 500;
+  border-radius: 50px;
+}
+.center a:hover {
+  background-color: #ebe6e6;
+}
