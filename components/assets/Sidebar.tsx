@@ -5,7 +5,7 @@ interface SidebarProps {
   };
   isSidebar: boolean;
 }
-export default function Sidebar({ styles, isSidebar }:SidebarProps) {
+export default function Sidebar({ styles, isSidebar }: SidebarProps) {
   return (
     <div className={styles.sidebar} id={isSidebar ? "" : styles.hidden}>
       <div className={styles.ads}>
@@ -27,9 +27,7 @@ export default function Sidebar({ styles, isSidebar }:SidebarProps) {
         </Link>
       </div>
       <div className={styles.adsLinks}>
-        <Link href="https://tally.so/r/wAKNql" target="_blank">
-          API
-        </Link>
+        <Link href="/">Home</Link>
         <Link href="/pricing">API Pricing</Link>
         <Link href="/features">Features</Link>
       </div>
