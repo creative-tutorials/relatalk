@@ -10,11 +10,11 @@
 
 ## What is Relatalk?
 
-[Relatalk](https:google.com) is an open-source social media platform, relatalk is a community basedq platform, which means, you can choose to join a community, as you would in for discord, If you're feeling like a PRO and want your content in the general base of Relatalk, you can post your thoughts without joining a community.
+Relatalk is an open-source social media platform, relatalk is a community basedq platform, which means, you can choose to join a community, as you would in for discord, If you're feeling like a PRO and want your content in the general base of Relatalk, you can post your thoughts without joining a community.
 
 ## Demo
 
-A live version of Relatalk can be found [here](https://gogole.com)
+A live version of Relatalk can be found [here](https://relatalk.vercel.app)
 
 ## Tech Stack
 
