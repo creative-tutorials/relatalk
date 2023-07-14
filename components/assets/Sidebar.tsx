@@ -30,7 +30,7 @@ export default function Sidebar({ styles, isSidebar }:SidebarProps) {
         <Link href="https://tally.so/r/wAKNql" target="_blank">
           API
         </Link>
-        <Link href="/pricing">Pricing</Link>
+        <Link href="/pricing">API Pricing</Link>
         <Link href="/features">Features</Link>
       </div>
     </div>

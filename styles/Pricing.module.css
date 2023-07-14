@@ -118,31 +118,34 @@
     font-size: 1rem;
   }
 }
-@media screen and (max-width:826px) {
+@media screen and (max-width: 826px) {
   .secondary_description span {
     font-size: 3.4rem;
     color: #efefef;
     font-weight: 500;
   }
 }
-@media screen and (max-width:656px) {
+@media screen and (max-width: 656px) {
   .secondary_description span {
     font-size: 3rem;
     color: #efefef;
     font-weight: 500;
   }
 }
-@media screen and (max-width:604px) {
+@media screen and (max-width: 604px) {
   .secondary_description span {
     font-size: 2.5rem;
     color: #efefef;
     font-weight: 500;
   }
 }
-@media screen and (max-width:492px) {
+@media screen and (max-width: 492px) {
   .secondary_description span {
-    font-size: 2rem;
+    font-size: 3rem;
     color: #efefef;
     font-weight: 500;
+  }
+  .pricingWrapper {
+    margin-top: 2rem;
   }
 }

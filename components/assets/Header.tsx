@@ -23,7 +23,7 @@ export default function Header({ styles, isSidebar, setIsSidebar }: HeaderProps)
           </Link>
         </div>
         <div className={styles.header_links}>
-          <Link href="/pricing">API pricing</Link>
+          <Link href="/pricing">API Pricing</Link>
           <Link href="/features">Features</Link>
         </div>
         <div className={styles.header_cta}>
