@@ -12,15 +12,13 @@ export default function Custom404() {
     <>
       <Head>
         <title>Relatalk: Open Source Social Media Platform</title>
+        <meta name="description" content="Open Source Social Media Platform" />
         <meta
-          name="description"
-          content="Open Source Social Media Platform"
+          name="google-site-verification"
+          content="l1a2fyP4jz21WqSIR2HNxLAyt__hUNkV-48f_zbVHYE"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta
-          content="Open Source Social Media Platform"
-          name="description"
-        />
+        <meta content="Open Source Social Media Platform" name="description" />
         <meta content="/Website Cover.png" property="og:image" />
         <meta property="og:image:alt" content="Relatalk Prime" />
         <meta
