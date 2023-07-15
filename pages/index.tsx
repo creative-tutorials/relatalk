@@ -13,22 +13,22 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Relatalk: Open Source Alternative Social Media Platform</title>
+        <title>Relatalk: Open Source Social Media Platform</title>
         <meta
           name="description"
-          content="Open Source Alternative Social Media Platform"
+          content="Open Source Social Media Platform"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta content="/Website Cover.png" property="og:image" />
         <meta property="og:image:alt" content="Relatalk Prime" />
         <meta content="white" name="theme-color" />
         <meta
-          content="Relatalk: Open Source Alternative Social Media Platform"
+          content="Relatalk: Open Source Social Media Platform"
           property="og:title"
         />
         <meta
           property="og:description"
-          content="The Open Source Alternative to Firebase."
+          content="Open Source Social Media Platform"
         />
         <meta content="/Website Cover.png" name="twitter:image" />
         <link
