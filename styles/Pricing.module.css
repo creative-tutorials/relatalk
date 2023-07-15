@@ -149,3 +149,13 @@
     margin-top: 2rem;
   }
 }
+@media screen and (max-width: 365px) {
+  .features li {
+    font-size: 0.7rem;
+  }
+}
+@media screen and (max-width: 282px) {
+  .secondary_description span {
+    font-size: 2rem;
+  }
+}
