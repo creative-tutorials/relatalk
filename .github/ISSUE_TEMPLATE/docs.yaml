@@ -1,5 +1,5 @@
 name: 📑 Docs
-description: File a bug report
+description: Fix broken docs, or add new features to it
 title: "[Docs]: <description>"
 labels: ["documentation", "to fix"]
 assignees:
