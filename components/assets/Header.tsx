@@ -27,8 +27,8 @@ export default function Header({ styles, isSidebar, setIsSidebar }: HeaderProps)
           <Link href="/features">Features</Link>
         </div>
         <div className={styles.header_cta}>
-          <Link href="https://discord.com/invite/ucUx7eP5tc">
-            Join community
+          <Link href="#">
+            Learn more
           </Link>
         </div>
         <div className={styles.mobile_menu}>
