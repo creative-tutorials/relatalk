@@ -12,7 +12,7 @@ export default function Sidebar({ styles, isSidebar }: SidebarProps) {
         <div className={styles.ads_crunch}>
           <span>Ads</span>
         </div>
-        <Link href="/">
+        <Link href="https://www.patreon.com/DevKid">
           <svg
             width="30"
             height="30"
